@@ -49,8 +49,7 @@ In the following image you can see the embedded code that executes the payload w
 </br>
 
 ### Additional Information:
-http://cszcms.com](http://www.cmsmadesimple.org/
+http://www.cmsmadesimple.org/
 
 https://owasp.org/Top10/es/A03_2021-Injection/
 
-https://owasp.org/www-community/attacks/xss/
