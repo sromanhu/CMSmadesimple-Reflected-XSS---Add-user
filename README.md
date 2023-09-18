@@ -2,9 +2,9 @@
 
 ## Author: (Sergio)
 
-**Description:** Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the password and password again in the My Preferences - Add user.
+**Description:** Multiple cross-site scripting (XSS) vulnerabilites in install/adduser.php of CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the password and password again in the My Preferences - Add user.
 
-**Attack Vectors:** Scripting A vulnerability in the sanitization of the entry in the password and password of "My Preferences - Add user." allows injecting JavaScript code that will be executed when forward the request.
+**Attack Vectors:** Scripting a vulnerability in the sanitization of the entry in the password and password of "My Preferences - Add user." allows injecting JavaScript code that will be executed when forward the request.
 
 ---
 
