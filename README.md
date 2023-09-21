@@ -13,7 +13,8 @@
 
 When logging into the panel, we will go to the "My Preferences - Add user" section off General Menu.
 
-![XSS password fields](https://github.com/sromanhu/CMSmadesimple-Stored-XSS---Add-user/assets/87250597/ccd58b10-56e6-4414-a18a-6a93145361fe)
+![XSS password fields](https://github.com/sromanhu/CMSmadesimple-Reflected-XSS---Add-user/assets/87250597/f41cd63a-7dcf-4082-bac1-00d6a71254ff)
+
 
 
 
@@ -35,9 +36,11 @@ We edit that Content - News Menu with the payload that we have created and see t
 
 
 In the following image you can see the embedded code that executes the payload when forward the request.
-![XSS password result1](https://github.com/sromanhu/CMSmadesimple-Stored-XSS---Add-user/assets/87250597/091d3b80-727e-47ff-b678-82867f00e9f1)
+![XSS password result1](https://github.com/sromanhu/CMSmadesimple-Reflected-XSS---Add-user/assets/87250597/a26cb32a-e3c5-4323-a74c-87048f1e8aba)
 
-![XSS password result 2](https://github.com/sromanhu/CMSmadesimple-Stored-XSS---Add-user/assets/87250597/90304fe3-39d1-47b4-a913-cf6858717a6a)
+
+![XSS password result 2](https://github.com/sromanhu/CMSmadesimple-Reflected-XSS---Add-user/assets/87250597/ca52b885-c776-4d0e-b7f1-8dcebdd436e6)
+
 
 
 
